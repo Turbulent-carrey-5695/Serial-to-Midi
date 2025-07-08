@@ -6,8 +6,8 @@ Simple project: use an Arduino with push buttons to send MIDI CC messages to you
 
 ## Contents
 
-- `arduino_midi_buttons.ino` — Arduino sketch for reading button presses and sending MIDI CC over serial
-- `serial_midi_bridge.py` — Python script to forward serial MIDI data to a virtual MIDI port
+- `Arduino_Button_serial.ino` — Arduino sketch for reading button presses and sending MIDI CC over serial
+- `serial_to_midi_gui.py` — Python script to forward serial MIDI data to a virtual MIDI port
 
 ---
 
