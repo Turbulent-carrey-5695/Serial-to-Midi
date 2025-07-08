@@ -22,3 +22,9 @@ Simple Python app to forward MIDI CC messages from Arduino serial output to a MI
 
 CC 1 127
 CC 2 0
+
+
+
+
+
+##Note: This is made for MaxOS
