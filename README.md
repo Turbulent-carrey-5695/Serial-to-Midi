@@ -10,6 +10,9 @@ Simple Python app to forward MIDI CC messages from Arduino serial output to a MI
 
 ### Install Python Libraries
 
+pip install pyserial mido python-rtmidi
+or
+pip3 install pyserial mido python-rtmidi
 
 ## Usage
 
